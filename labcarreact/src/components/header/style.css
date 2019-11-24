@@ -37,17 +37,24 @@
   @media (max-width: 768px){
     .tags-a{
       color: black;
-      padding: .5rem;
       display: inline-block;
       font-size: 1.1rem;
+    }
 
+    ul{
+      margin: 0%;
+      padding: 0%;
+      width: 100%;
     }
 
     li{
       list-style: none;
       display: inline-block;
-      display: flex;
-      flex-direction: row;
+      padding: 1rem;
+    }
+
+    .logo-initial{
+      margin-right: 5rem;
     }
   }
 
@@ -63,6 +70,12 @@
 
 @media (min-width: 768px){
   .icon-burger{
+    display: none;
+  }
+}
+
+@media (max-width: 425px){
+  .tags-a{
     display: none;
   }
 }

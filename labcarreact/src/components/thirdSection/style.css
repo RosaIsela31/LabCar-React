@@ -35,3 +35,55 @@
     align-items: center;
     align-content: center;
   }
+
+
+  @media (min-width: 768px){
+    .container-drive{
+      display: none;
+    }
+
+    .container-drive-tablet{
+      background-color: rgba(0, 0, 0, 0.5);
+      height: 30rem;
+      width: 100%;
+      position: relative;
+    }
+
+    .drive-tablet{
+      height: 30rem;
+      position: absolute;
+      width: 100%;
+
+    }
+
+    .rgba-drive-tablet{
+      background-color: rgba(0, 0, 0, 0.5);
+      height: 30rem;
+      width: 100%;
+      position: relative;
+    }
+
+    .p-text{
+      padding: 2rem;
+    }
+
+    .text-thirdcontainer-tablet{
+
+    }
+
+    .container-button-tablet{
+
+    }
+
+    .btn-thirdsection-tablet{
+
+    }
+
+  
+  }
+
+  @media (max-width: 425px){
+    .container-drive-tablet{
+      display: none;
+    }
+  }
