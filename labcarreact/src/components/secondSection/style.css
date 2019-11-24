@@ -1,0 +1,25 @@
+.second-section{
+  background-color: #f7b617;
+  height: 35rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  padding-top: 1rem;
+}
+
+.container-imgmobile{
+  background-color: transparent;
+  border: 1.45px solid white;
+  height: 33rem;
+  width: 85%;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.phone{
+  height: 20rem;
+}
