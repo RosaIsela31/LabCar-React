@@ -4,8 +4,8 @@ import ReactDOM from 'react-dom';
 const mapStyles = {
   map: {
     position: 'absolute',
-    width: '85%',
-    height: '35%'
+    width: '22rem',
+    height: '17rem'
   }
   
 
@@ -112,7 +112,7 @@ export class CurrentLocation extends React.Component {
     const style = Object.assign({}, mapStyles.map);
    return (
      <div>
-       <div style={style} ref="map">
+       <div style={style} ref="map" className='map'>
          Loading map...
        </div>
        {this.renderChildren()}

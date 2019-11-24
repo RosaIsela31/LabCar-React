@@ -29,7 +29,7 @@ const FourthSection = () => {
           <button className='btn-route'><b>¡TRAZAR RUTA!</b></button>
         </div>
         <div className='container-map'>
-          <Map />
+          <Map className='map'/>
         </div>
       </div>
     </div>

@@ -48,3 +48,18 @@
     padding-left: .5rem;
     padding-top: 1rem;
   }
+ 
+  @media (min-width: 375px){
+    .tarifas{
+      height: 52rem;
+      width: 100%;
+    }
+  }
+
+  @media (min-width: 320px){
+    .tarifas{
+      height: 55rem;
+      width: 100%;
+    }
+  }
+
