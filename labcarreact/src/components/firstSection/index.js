@@ -29,6 +29,32 @@ const FirstComponent = () => {
           </div>
       </div>
 
+      <div className='container-imgtaxi-div-desktop'>
+          <img src={taxi2} alt='taxi' className='img-taxi2'/>
+          <div className='firstContainer-yellow-desktop'>
+              <div className='container-p-initial-desktop'>
+                  <br/>
+                  <p>
+                    <b>
+                      Disfruta del viaje <br/>
+                      Eres dueño de tu tiempo
+                    </b>
+                  <br/><br/>
+                      Viaja con Labcar 
+                  </p>
+                      <br/>
+                      <button className='btn-download-desktop'>REGÍSTRATE</button> <br/>
+
+                      <pre>____________  O bien  ____________</pre>
+
+                      <br/>
+                      <button className='btn-driver'>Conviértete en un conductor</button>
+                  
+
+              </div>
+          </div>
+      </div>
+
   
   
       
