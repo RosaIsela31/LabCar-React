@@ -1,37 +1,37 @@
-.drive{
-  height: 20rem;
-  position: absolute;
-  width: 100%;
-}
-
-.rgba-drive{
-  background-color: rgba(0, 0, 0, 0.5);
-  height: 20rem;
-  width: 100%;
-  position: relative;
-}
-
-.container-drive{
-  display: flex;
-}
-
-.text-thirdcontainer{
-  padding: 1rem;
-}
-
-.btn-thirdsection{
-  background-color: #f7b617;
-  height: 3rem;
-  width: 17rem;
-  color: white;
-  font-size: 1.1rem;
-  border-radius: 8px;
-
-}
-
-.container-button{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  align-content: center;
-}
+  .drive{
+    height: 20rem;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .rgba-drive{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 20rem;
+    width: 100%;
+    position: relative;
+  }
+  
+  .container-drive{
+    display: flex;
+  }
+  
+  .text-thirdcontainer{
+    padding: 1rem;
+  }
+  
+  .btn-thirdsection{
+    background-color: #f7b617;
+    height: 3rem;
+    width: 17rem;
+    color: white;
+    font-size: 1.1rem;
+    border-radius: 8px;
+  
+  }
+  
+  .container-button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+  }

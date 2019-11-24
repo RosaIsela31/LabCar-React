@@ -1,7 +1,9 @@
-@media (max-width: 425px){
-
   .navbar-mobile{
     display: block;
+  }
+
+  .icon-burger{
+    display: inline;
   }
 
   .burger-container{
@@ -10,7 +12,7 @@
     height: 2.5;
     border-radius: 5px;
     margin-left: 2rem;
-    margin-right: 5rem;
+    margin-right: 3rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -30,9 +32,37 @@
     height: 5rem;
     width: 100%;
   }
-}
 
-@media (max-width: 768px){
- 
-  
+
+  @media (max-width: 768px){
+    .tags-a{
+      color: black;
+      padding: .5rem;
+      display: inline-block;
+      font-size: 1.1rem;
+
+    }
+
+    li{
+      list-style: none;
+      display: inline-block;
+      display: flex;
+      flex-direction: row;
+    }
+  }
+
+
+
+/* ----------------------------------------------- */
+/* Display none-min */
+/* @media (min-width: 768px){
+  .tags-a{
+    display: none;
+  }
+} */
+
+@media (min-width: 768px){
+  .icon-burger{
+    display: none;
+  }
 }

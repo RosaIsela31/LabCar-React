@@ -37,9 +37,9 @@ const FifthSection = () => {
               <FaPlay className='icon'/>
             </div>
             <br/><br/>
-            <img src={googleplay} alt='googleplay' />
+            <img src={googleplay} alt='googleplay' className='img-fifth' />
             <br/>
-            <img src={appstore} alt='appstore' />
+            <img src={appstore} alt='appstore' className='img-fifth' />
 
           </div>
         </div>
