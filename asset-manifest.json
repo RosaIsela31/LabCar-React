@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RosaIsela31/LabCar-React/static/css/main.7857663a.chunk.css",
+    "main.js": "/RosaIsela31/LabCar-React/static/js/main.7242d70d.chunk.js",
+    "main.js.map": "/RosaIsela31/LabCar-React/static/js/main.7242d70d.chunk.js.map",
+    "runtime-main.js": "/RosaIsela31/LabCar-React/static/js/runtime-main.1c74bfa3.js",
+    "runtime-main.js.map": "/RosaIsela31/LabCar-React/static/js/runtime-main.1c74bfa3.js.map",
+    "static/js/2.4475de6e.chunk.js": "/RosaIsela31/LabCar-React/static/js/2.4475de6e.chunk.js",
+    "static/js/2.4475de6e.chunk.js.map": "/RosaIsela31/LabCar-React/static/js/2.4475de6e.chunk.js.map",
+    "index.html": "/RosaIsela31/LabCar-React/index.html",
+    "precache-manifest.0e14800f8753351e7ce7ab7e11af3724.js": "/RosaIsela31/LabCar-React/precache-manifest.0e14800f8753351e7ce7ab7e11af3724.js",
+    "service-worker.js": "/RosaIsela31/LabCar-React/service-worker.js",
+    "static/css/main.7857663a.chunk.css.map": "/RosaIsela31/LabCar-React/static/css/main.7857663a.chunk.css.map",
+    "static/media/taxi.jpg": "/RosaIsela31/LabCar-React/static/media/taxi.941e4b73.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c74bfa3.js",
+    "static/js/2.4475de6e.chunk.js",
+    "static/css/main.7857663a.chunk.css",
+    "static/js/main.7242d70d.chunk.js"
+  ]
+}
