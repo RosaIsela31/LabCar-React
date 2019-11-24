@@ -13,7 +13,15 @@ const Navbar = () => {
         <div className='burger-container'>
           <GoThreeBars className='icon-burger'/>
         </div>
-        <img src={logo} alt='logo' />
+        <img src={logo} alt='logo' className='logo-initial' />
+        <div className='tags-a'>
+          <ul>
+            <li>Viaja</li>
+            <li>Conduce</li>
+            <li>Inicia Sesión</li>
+          </ul>
+
+        </div>
       </div>
       
     </div>
