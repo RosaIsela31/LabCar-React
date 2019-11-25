@@ -88,10 +88,47 @@
     }
   }
 
+
   @media (min-width: 1024px){
     .logo-initial{
       margin-right: 18rem;
     }
+  }
+
+  @media (min-width: 1440px){
+
+    .navbar-mobile{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      align-content: center;
+      height: 7rem;
+      width: 100%;
+    }
+
+    .tags-a{
+      color: black;
+      display: inline-block;
+      font-size: 1.1rem;
+    }
+
+    ul{
+      margin: 0%;
+      padding: 0%;
+      width: 100%;
+    }
+
+    li{
+      list-style: none;
+      display: inline-block;
+      padding: 1rem;
+    }
+
+    .logo-initial{
+      margin-right: 40rem;
+    }
+
+    
   }
 
 
