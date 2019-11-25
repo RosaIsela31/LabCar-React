@@ -49,8 +49,6 @@ const FirstComponent = () => {
 
                       <br/>
                       <button className='btn-driver'>Conviértete en un conductor</button>
-                  
-
               </div>
           </div>
       </div>

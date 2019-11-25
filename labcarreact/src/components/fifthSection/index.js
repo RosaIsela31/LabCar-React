@@ -48,8 +48,8 @@ const FifthSection = () => {
 
 
       <div className='footer-container-desktop'>
-        <img src={logoblanco} alt='logoblanco' className='logoblaco-footer'/>
-        <div className='container-colums'>
+        <img src={logoblanco} alt='logoblanco' className='logoblaco-footer-desktop'/>
+        <div className='container-colums-desktop'>
            <div className='column-one'>
               <FaFacebook className='icon'/>
               <FaTwitter className='icon'/>
@@ -57,8 +57,8 @@ const FifthSection = () => {
               <FaApple className='icon'/>
               <FaPlay className='icon'/>
             </div>
-          <div className='columns-two'>
-            <p>
+          <div className='column-two'>
+          <p>
               Viaja <br/><br/>
               Conduce <br/><br/>
               Ciudades <br/><br/>
@@ -66,7 +66,7 @@ const FifthSection = () => {
               ¿Cómo funciona? <br/><br/>
               Países <br/><br/>
               Seguridad
-            </p>
+          </p>
           </div>
           <div className='column-three'>
             <p>
