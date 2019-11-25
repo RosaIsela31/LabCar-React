@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1fedad46edd252ce6895452dded6a68",
+    "revision": "50bd7d69a3bf74463ab77eb7a380a045",
     "url": "/RosaIsela31/LabCar-React/tree/master/labcarreact/index.html"
   },
   {
-    "revision": "c4d6e1a8062f4e5f9196",
+    "revision": "cb3e5c0b2df3d74f9732",
     "url": "/RosaIsela31/LabCar-React/tree/master/labcarreact/static/css/main.22ebc337.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RosaIsela31/LabCar-React/tree/master/labcarreact/static/js/2.d59a319b.chunk.js"
   },
   {
-    "revision": "c4d6e1a8062f4e5f9196",
-    "url": "/RosaIsela31/LabCar-React/tree/master/labcarreact/static/js/main.6ccf24ad.chunk.js"
+    "revision": "cb3e5c0b2df3d74f9732",
+    "url": "/RosaIsela31/LabCar-React/tree/master/labcarreact/static/js/main.aa8dbff9.chunk.js"
   },
   {
     "revision": "14d8ae8ff0e0ee8ffebf",
