@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://github.com/RosaIsela31/LabCar-React/tree/master/labcarreact",
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "google-maps-react": "^2.0.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
